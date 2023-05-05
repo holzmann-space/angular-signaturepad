@@ -1,16 +1,16 @@
-# angular2-signaturepad
+# tdox-signaturepad
 Angular 2 component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
 # No Longer Maintained
 << THIS IS NO LONGER IN USE BY OWNER. PROBLEMS CAN AND DO EXIST. PRs ARE SUPER WELCOME, BUT I CAN NOT IDENTIFY WHAT YOUR ISSUES ARE, NOR WILL I CHANGE THINGS BECAUSE ANGULAR HAS CHANGED IN THE YEARS SINCE I WROTE THIS. I DO NOT USE THIS, I CAN'T HELP YOU WITH YOUR PROBLEMS. >>
 
 ## Install
-`npm install angular2-signaturepad --save`
+`npm install tdox-signaturepad --save`
 
 ## Reference Implementation
 
-* [Live Demo](http://lathonez.com/angular2-signaturepad-demo/)
-* [Source](https://github.com/lathonez/angular2-signaturepad-demo)
+* [Live Demo](http://lathonez.com/tdox-signaturepad-demo/)
+* [Source](https://github.com/lathonez/tdox-signaturepad-demo)
 
 ## Usage example
 
@@ -25,7 +25,7 @@ The above options are provided to avoid accessing the DOM directly from your com
 
 // import into app module
 
-import { SignaturePadModule } from 'angular2-signaturepad';
+import { SignaturePadModule } from 'tdox-signaturepad';
 
 ...
 
@@ -39,7 +39,7 @@ import { SignaturePadModule } from 'angular2-signaturepad';
 // then import for use in a component
 
 import { Component, ViewChild } from 'angular2/core';
-import { SignaturePad } from 'angular2-signaturepad/signature-pad';
+import { SignaturePad } from 'tdox-signaturepad/signature-pad';
 
 @Component({
   template: '<signature-pad [options]="signaturePadOptions" (onBeginEvent)="drawStart()" (onEndEvent)="drawComplete()"></signature-pad>'

@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { SignaturePad } from './angular2-signaturepad.component';
+import { SignaturePad } from './tdox-signaturepad.component';
 
 @NgModule({
   declarations: [SignaturePad],

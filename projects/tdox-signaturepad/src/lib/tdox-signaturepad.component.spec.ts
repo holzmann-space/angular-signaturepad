@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { SignaturePad } from './angular2-signaturepad.component';
+import { SignaturePad } from './tdox-signaturepad.component';
 
 describe('Angular2SignaturepadComponent', () => {
   let component: SignaturePad;
