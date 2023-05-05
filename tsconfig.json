@@ -17,8 +17,8 @@
     ],
     "paths": {
       "tdox-signaturepad": [
-        "dist/tdox-signaturepad/tdox-signaturepad",
-        "dist/tdox-signaturepad"
+        "dist/tdox-inc/signaturepad/tdox-inc/signaturepad",
+        "dist/tdox-inc/signaturepad"
       ]
     },
     "useDefineForClassFields": false
