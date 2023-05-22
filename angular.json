@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "tdox-signaturepad": {
+    "tdo-signaturepad": {
       "projectType": "library",
       "root": "projects/tdox-signaturepad",
       "sourceRoot": "projects/tdox-signaturepad/src",

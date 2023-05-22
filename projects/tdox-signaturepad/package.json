@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "description": "Angular2 Component wrapper for signature_pad",
   "repository": "git@github.com:TDO-Inc/angular-signaturepad",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "signature",
     "sign",
     "finger",
     "canvas"
   ],
-  "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz)",
+  "author": "TDOX",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TDO-Inc/angular-signaturepad/issues"

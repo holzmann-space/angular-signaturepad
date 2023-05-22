@@ -16,9 +16,8 @@
       "dom"
     ],
     "paths": {
-      "tdox-signaturepad": [
-        "dist/tdox-inc/signaturepad/tdox-inc/signaturepad",
-        "dist/tdox-inc/signaturepad"
+      "@tdo-inc/angular-signaturepad": [
+        "dist/tdo-inc/angular-signaturepad"
       ]
     },
     "useDefineForClassFields": false
