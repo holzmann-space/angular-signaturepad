@@ -31,5 +31,6 @@
         }
       }
     }
-  }
+  },
+  "defaultProject": "angular2-signaturepad"
 }
